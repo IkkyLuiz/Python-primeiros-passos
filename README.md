@@ -1,0 +1,2 @@
+# Python-primeiros-passos
+Iniciando o aprendizado com a linguagem de programação Python. Estou aprendendo Python na Digital Innovation One(https://dio.me/sign-up?ref=YACG3ZYDVX ) com o professor Rafael Galleani. Neste primeiro momento foi aprendido como realizar operações aritméticas(somar, subtrair, dividir, multiplicar e o resto). Estou utilizando a IDE Visual Studio Code( https://code.visualstudio.com/?wt.mc_id=vscom_downloads) e foi necessário instalar o Python em minha máquina acessando o site( https://python.org.br/instalacao-windows/).
